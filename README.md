@@ -9,8 +9,7 @@
 
 ## 關於我 🚀
 
-- 💻 我目前從事 **程式開發及數據分析相關工作**。
-- 🌱 我正在探索 ****。
+- 💻 ISO 27001資訊安全管理系統主導稽核員 | TQC+ Python機器學習專業人員 | Certified in Cybersecurity Certification（CC）
 - 💡 我最新的專案是 **[EscapeRoomGame]**，它是一個 [以JAVA程式寫的解謎類密室逃脫小遊戲]。
 - 🤝 歡迎交流任何想法！
 - 📫 如何聯繫我：eric.yu.phx@gmail.com ,或透過下方社群連結。
